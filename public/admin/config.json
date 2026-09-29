@@ -1,7 +1,8 @@
 {
-  "repo": "REPLACED_AT_PROVISION",
+  "repo": "levigagliano19-droid/portfolio-3",
   "branch": "main",
   "authBaseUrl": "https://auth.usegesso.com",
-  "host": "netlify",
-  "formEndpoint": ""
+  "host": "github-pages",
+  "formEndpoint": "https://formsubmit.co/levigagliano19%40gmail.com",
+  "gessoVersion": "0.43.3"
 }
